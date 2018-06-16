@@ -8,7 +8,7 @@
 
 ![alt](https://assets.rbl.ms/13910702/980x.jpg "That's a big boy")
 
-![alt](../master/image.jpg"check it out")
+![alt](../master/image.jpg "check it out")
 
 ```javascript
 var i=0;
