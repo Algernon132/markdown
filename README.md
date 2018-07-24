@@ -31,3 +31,13 @@ while (i<3){
 ---
 #### This is following a horizontal rule
 
+1. First ordered item
+2. Second ordered item
+3. Third and final ordered item
+
+| Name  | Age | Occupation  |
+|-------|-----|-------------|
+| John  | 25  | Welder      |
+| Mary  | 33  | President   |
+| Tommy | 9   | Machinist   |
+| Alexa | ?   | Assistant   |
